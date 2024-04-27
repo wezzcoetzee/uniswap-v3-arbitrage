@@ -1,0 +1,13 @@
+{
+  "name": "uniswapv3-flashswap",
+  "version": "1.0.0",
+  "description": "UniswapV3 Arbitrage",
+  "scripts": {},
+  "author": "Wesley Coetzee",
+  "license": "MIT",
+  "dependencies": {
+    "@shunkakinoki/ds-test": "^1.0.2",
+    "forge": "^2.3.0",
+    "forge-std": "^1.1.2"
+  }
+}

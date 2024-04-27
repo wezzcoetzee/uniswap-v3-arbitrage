@@ -17,3 +17,10 @@ To do this we need to do the following:
 2 - Swap on Pool B (WETH -> DAI)
 3 - Send DAI to Pool A
 4 - Profit is the DAI from Pool B subtract the DAI repaid to Pool A
+
+## Instructions
+
+1. Install [Foundryup](https://book.getfoundry.sh/getting-started/installation).
+2. Run the following command in your directory to install dependecies `forge install foundry-rs/forge-std`.
+3. Run the following to build your contract `forge build`.
+4. Run `forge test -vvv` to execute your tests.
